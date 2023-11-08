@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.AssemblyInfo.cs
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\bin\Debug\net7.0\major_work.exe
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\bin\Debug\net7.0\major_work.deps.json
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\bin\Debug\net7.0\major_work.runtimeconfig.json
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\bin\Debug\net7.0\major_work.dll
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\bin\Debug\net7.0\major_work.pdb
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.dll
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\refint\major_work.dll
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.pdb
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\major_work.genruntimeconfig.cache
+C:\Users\User\Desktop\ControlWork\Control_work\major_work\obj\Debug\net7.0\ref\major_work.dll
